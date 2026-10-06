@@ -1,0 +1,151 @@
+ProductID,ProductName,CategoryID,Price,Stock
+1,Wireless Headphones,1,629.67,276
+2,Smartphone,1,65.77,179
+3,Laptop,1,424.37,278
+4,Smartwatch,1,356.89,77
+5,Bluetooth Speaker,1,160.37,280
+6,Tablet,1,487.24,256
+7,Gaming Mouse,1,90.31,0
+8,Mechanical Keyboard,1,680.85,34
+9,Power Bank,1,181.14,167
+10,USB-C Hub,1,1334.85,269
+11,Monitor,1,85.4,261
+12,Webcam,1,225.17,136
+13,WiFi Router,1,373.38,115
+14,External SSD,1,32.45,0
+15,Wireless Earbuds,1,55.09,7
+16,Air Fryer,2,61.34,120
+17,Mixer Grinder,2,48.25,231
+18,Electric Kettle,2,220.76,49
+19,Coffee Maker,2,377.12,268
+20,Toaster,2,110.15,236
+21,Non-Stick Pan,2,337.51,30
+22,Cookware Set,2,40.52,191
+23,Vacuum Cleaner,2,141.77,0
+24,Storage Box,2,201.26,92
+25,Water Bottle,2,67.56,220
+26,Lunch Box,2,13.7,128
+27,Kitchen Scale,2,35.3,122
+28,Hand Blender,2,14.57,248
+29,Dinner Set,2,10.18,16
+30,Food Container,2,11.19,49
+31,Running Shoes,3,46.89,65
+32,Casual Shirt,3,78.55,39
+33,Jeans,3,151.66,225
+34,T-Shirt,3,27.09,0
+35,Jacket,3,21.29,189
+36,Sneakers,3,106.32,157
+37,Hoodie,3,50.84,230
+38,Dress,3,285.55,216
+39,Backpack,3,205.3,70
+40,Wallet,3,37.43,86
+41,Belt,3,14.81,294
+42,Sunglasses,3,128.7,27
+43,Formal Shoes,3,76.75,42
+44,Track Pants,3,19.02,0
+45,Cap,3,18.97,204
+46,Face Wash,4,114.98,297
+47,Moisturizer,4,49.22,51
+48,Sunscreen,4,111.32,141
+49,Shampoo,4,117.24,215
+50,Conditioner,4,33.29,144
+51,Lip Balm,4,40.62,117
+52,Perfume,4,103.15,94
+53,Body Lotion,4,12.84,94
+54,Serum,4,63.23,35
+55,Face Mask,4,35,61
+56,Hair Oil,4,15.76,162
+57,Makeup Kit,4,113.54,71
+58,Hand Cream,4,94.03,60
+59,Body Wash,4,14.63,196
+60,Beard Oil,4,8.85,0
+61,Yoga Mat,5,28.03,216
+62,Dumbbell Set,5,125.02,188
+63,Resistance Bands,5,18.53,290
+64,Treadmill,5,19.55,26
+65,Fitness Tracker,5,14.61,236
+66,Skipping Rope,5,192.06,258
+67,Gym Gloves,5,260.73,182
+68,Football,5,698.3,222
+69,Cricket Bat,5,18.85,40
+70,Cycling Helmet,5,38.31,280
+71,Tennis Racket,5,288.07,219
+72,Exercise Bench,5,12.26,204
+73,Foam Roller,5,64.09,212
+74,Sports Bottle,5,62.6,13
+75,Knee Support,5,498.64,259
+76,Business Strategy Book,6,11.5,121
+77,SQL for Beginners,6,90.74,143
+78,Power BI Guide,6,28.72,289
+79,Excel Mastery,6,77.85,191
+80,Data Analytics Handbook,6,17.15,230
+81,Python Basics,6,30.19,207
+82,Financial Analysis,6,63.58,0
+83,Marketing Basics,6,10.51,54
+84,Leadership Book,6,91.74,147
+85,Project Management,6,8.84,112
+86,Communication Skills,6,9.95,35
+87,Statistics Guide,6,28.88,151
+88,Economics Today,6,23.05,143
+89,Investment Guide,6,37.58,116
+90,Digital Marketing,6,85.6,108
+91,Board Game,7,87.69,18
+92,Puzzle Set,7,16.93,254
+93,Building Blocks,7,56.83,259
+94,Remote Control Car,7,33.81,168
+95,Action Figure,7,78.19,81
+96,Educational Toy,7,20.11,47
+97,Card Game,7,75.33,0
+98,Strategy Game,7,9.72,141
+99,Doll House,7,157.33,92
+100,Science Kit,7,192.01,0
+101,Art Kit,7,12.75,286
+102,Toy Robot,7,9.76,280
+103,Stuffed Animal,7,104.22,119
+104,Kids Bicycle,7,168.17,206
+105,Outdoor Game Set,7,14.86,103
+106,Notebook,8,3.2,197
+107,Ball Pen Set,8,2.43,234
+108,Desk Organizer,8,2.11,232
+109,Printer Paper,8,2.95,161
+110,Stapler,8,7.3,101
+111,File Folder,8,8.65,217
+112,Whiteboard,8,7.3,73
+113,Marker Set,8,3.5,76
+114,Calculator,8,3.77,29
+115,Desk Lamp,8,29.92,294
+116,Sticky Notes,8,2.21,54
+117,Planner,8,2.16,106
+118,Paper Clips,8,18.79,26
+119,Document Tray,8,37.96,0
+120,Label Maker,8,2.2,173
+121,Coffee Pack,9,9.37,141
+122,Green Tea,9,9.27,160
+123,Breakfast Cereal,9,38.15,272
+124,Olive Oil,9,81.73,21
+125,Pasta Pack,9,6.21,273
+126,Snack Box,9,7.5,95
+127,Peanut Butter,9,13.05,0
+128,Honey Jar,9,8.78,210
+129,Protein Bar,9,3.81,41
+130,Dry Fruits,9,41.66,122
+131,Cooking Spices,9,97.73,230
+132,Cookies,9,49.33,292
+133,Juice Pack,9,24.44,215
+134,Rice Pack,9,85.24,174
+135,Oats,9,5.9,208
+136,Car Phone Holder,10,62.47,265
+137,Dash Camera,10,43.39,164
+138,Car Vacuum,10,104.76,191
+139,Seat Cover,10,29.38,109
+140,LED Headlight,10,28.59,21
+141,Tire Inflator,10,41.91,108
+142,Car Charger,10,58.08,132
+143,Air Freshener,10,24.97,0
+144,Cleaning Kit,10,71.68,153
+145,Floor Mat,10,17.16,35
+146,Emergency Kit,10,32.02,70
+147,Steering Cover,10,432.17,140
+148,Jump Starter,10,41,233
+149,Tool Kit,10,32,37
+150,Sun Shade,10,21.85,166
