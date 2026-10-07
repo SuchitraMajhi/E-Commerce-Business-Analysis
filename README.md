@@ -48,6 +48,7 @@ Data Cleaning → Data Transformation → SQL Analysis → Data Modeling → KPI
 
 <img width="1328" height="747" alt="PBI SS Page 2" src="https://github.com/user-attachments/assets/8b7e7e2a-92f9-48ac-82c2-66ed6ba9deb8" />
 
+
 <img width="1346" height="737" alt="PBI SS Page 3" src="https://github.com/user-attachments/assets/0325277b-96e6-4068-98cb-7f9ec425d001" />
 
 
