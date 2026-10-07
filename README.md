@@ -39,12 +39,13 @@ Data Cleaning → Data Transformation → SQL Analysis → Data Modeling → KPI
 - Increase customer value through cross-selling and upselling.
 - Target never-purchased customers with first-purchase campaigns.
 - Monitor dependency on high-performing categories and products.
+  
 
-- Excel Dashboard;
+Excel Dashboard:
 <img width="1797" height="760" alt="Excel DSB SS" src="https://github.com/user-attachments/assets/058b3092-9723-4507-abdd-3e6aae86375b" />
 
-- Power BI Dashboard;
- <img width="1331" height="732" alt="PBI SS Page 1" src="https://github.com/user-attachments/assets/b659abf8-d4ba-46cc-a1cf-9960283a0518" />
+Power BI Dashboard:
+<img width="1331" height="732" alt="PBI SS Page 1" src="https://github.com/user-attachments/assets/b659abf8-d4ba-46cc-a1cf-9960283a0518" />
 
 <img width="1328" height="747" alt="PBI SS Page 2" src="https://github.com/user-attachments/assets/8b7e7e2a-92f9-48ac-82c2-66ed6ba9deb8" />
 
